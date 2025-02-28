@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290834797736",
+    "project_id": "fraudshield-3ace2",
+    "storage_bucket": "fraudshield-3ace2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290834797736:android:3e7d8135aa737d87915e9d",
+        "android_client_info": {
+          "package_name": "com.fraudshield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290834797736-4o3jcj71vqvumg32sq3h3nof3kqrhrnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5U592KdvL6Y4-0xSfqnQUMAhaRa9y-Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290834797736-4o3jcj71vqvumg32sq3h3nof3kqrhrnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

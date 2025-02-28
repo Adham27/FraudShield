@@ -1,0 +1,29 @@
+# Web framework and extensions
+Flask==2.2.5  # Downgraded to be compatible with Flask-JWT-Extended
+Werkzeug==2.2.3  # Matching version for Flask 2.2
+Flask-RESTX==0.5.1
+Flask-SQLAlchemy==3.0.3  # Compatible with Flask 2.2
+Flask-JWT-Extended==4.4.4  # Requires Flask < 3.0
+Flask-CORS==3.0.10
+
+# Server
+gunicorn==21.2.0  # Corrected version
+
+# Utilities
+autopep8==2.0.4
+passlib==1.7.4
+python-decouple==3.6
+python-dateutil==2.9.0.post0
+
+# Database
+neomodel==4.0.9
+neo4j==5.12.0
+
+# Data processing and ML
+numpy==1.23.5
+opencv-python==4.7.0.72
+mtcnn==0.1.1
+tensorflow==2.12.0  # Single version of tensorflow
+scipy==1.10.1
+keras-facenet==0.3.2  # Latest available version
+keras-resnet==0.2.0  # Added version
