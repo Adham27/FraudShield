@@ -1,5 +1,6 @@
 import joblib
 
 # Load the model
-model = joblib.load('/home/user/backend/fraud_detection_model.pkl')
+fraud_model = joblib.load('C:\\Users\\yousef hefny\\OneDrive - Nile University\\Desktop\\python\\FraudShield\\fraud_detection_model.pkl')
+
 

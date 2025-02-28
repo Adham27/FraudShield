@@ -13,7 +13,7 @@ api = Namespace('auth', description='Authentication operations using Firebase OA
 # Initialize Firebase Admin SDK if not already initialized.
 # Replace the path with your Firebase service account JSON file.
 if not firebase_admin._apps:
-    cred = credentials.Certificate('/home/user/backend/google-services.json')
+    cred = credentials.Certificate('C:\Users\yousef hefny\OneDrive - Nile University\Desktop\python\FraudShield\google-services.json')
     firebase_admin.initialize_app(cred)
 
 # Models for expected input.
